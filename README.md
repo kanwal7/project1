@@ -1,2 +1,2 @@
 # project1
-First Projrct
+First Project
